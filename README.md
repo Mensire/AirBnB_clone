@@ -17,7 +17,7 @@ The console is a command line interpreter that permits management of the backend
 ## *using the console*
 The HolbertonBnB console can be run both interactively and non-interactively. To run the console in non-interactive mode, pipe any command(s) into an execution of the file console.py at the command line.
 
-<h1 Authors h1>
-    <p Ruth Mensire p>
-    <p Olani Baissa p>
+ Authors
+    - Ruth Mensire
+    - Olani Baissa
 
